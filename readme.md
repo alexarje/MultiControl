@@ -37,9 +37,8 @@ Features
 
 ## General use
 
-* Launch MultiControl and open your file.
-* Load your preset, just selecting it isn't enough.
-* Click all the buttons and move all the knob/sticks several times. Use the full range of the knobs/sticks, so that MultiControl can automatically calibrate them.
+* Launch MultiControl, then use the Load button inside the application to open your preset file. Do not open the file directly from your file browser.
+* After loading, click all the buttons and move all the knob/sticks several times. Use the full range of the knobs/sticks, so that MultiControl can automatically calibrate them.
 * Launch the app that uses the OSC or midi, and fire away!
 
 ## To update the settings
